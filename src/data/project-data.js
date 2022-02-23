@@ -42,12 +42,11 @@ export const projectData = [
         ]
     },
     {
-        name: "RoSTRY CoMS",
+        name: "RoSTRY CoMS [COMING SOON]",
         img: "/images/projects/rostry.png",
         altText: "RoSTRY logo",
         description: (
             <>
-                <p>COMING SOON</p>
                 <p>RoSTRY is my current passion project. Returning to my roots as a barista, trainer, and coffee roaster, I'm building the app I wish I had when I started roasting coffee. I'm calling it a Coffee Management System (CoMS). </p>
                 <p>I'm building this app in react with an Express/Postgres backend. Users will be able to register, set up company profiles with multiple roasters, track their coffee inventory, and plan their daily roasting lineup.</p>
             </>
@@ -62,10 +61,6 @@ export const projectData = [
             {
                 name: 'Redux',
                 icon: <SiRedux />
-            },
-            {
-                name: 'Bootstrap',
-                icon: <FaBootstrap />
             },
             {
                 name: 'Sass',

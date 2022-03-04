@@ -81,28 +81,29 @@ export const projectData = [
         ]
     },
     {
-        name: "Stopwatch",
-        img: "/images/projects/stopwatch.png",
-        altText: "Stopwatch project screenshot",
+        name: "Squordle",
+        img: "/images/projects/squordle.png",
+        altText: "Squordle: Gotta Guess 'em All",
         description: (
             <>
-                <p className="project-description">A mobile-friendly stopwatch app that tracks total time, laps, and current lap time. This vanilla javascript project was one of the first tools I built from scratch by myself. </p>
+                <p className="project-description">Your favorite childhood games meets your current obsession. Squordle is a Pokemon-themed Wordle clone that allows you to play multiple times per day in a quest to Catch 'em All!</p>
+                <p className="project-description">Squordle is a single-page React app. Sticking to its Wordle roots, the app gives every user the same starting word each day. However, players can continue playing as many times as they'd like with a randomly chosen Pokemon.</p>
             </>
             ),
-        liveLink: "https://trevorwallis13.github.io/stopwatch/",
-        githubLink: "https://github.com/trevorwallis13/stopwatch",
+        liveLink: "https://squordle.co/",
+        githubLink: "https://github.com/trevorwallis13/squordle",
         techStack: [
             {
-                name: 'Javascript',
-                icon: <FaJs />
+                name: 'React',
+                icon: <FaReact />
             },
             {
                 name: 'CSS3',
                 icon: <FaCss3 />
             },
             {
-                name: 'HTML5',
-                icon: <FaHtml5 />
+                name: 'Bootstrap',
+                icon: <FaBootstrap />
             }
         ]
     },

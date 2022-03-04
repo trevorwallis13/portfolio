@@ -1,4 +1,4 @@
-import { FaReact, FaBootstrap, FaNodeJs, FaJs, FaCss3, FaHtml5, FaSass } from 'react-icons/fa'
+import { FaReact, FaBootstrap, FaNodeJs, FaCss3, FaHtml5, FaSass } from 'react-icons/fa'
 import { SiPostgresql, SiExpress, SiRedux } from 'react-icons/si'
 
 export const projectData = [

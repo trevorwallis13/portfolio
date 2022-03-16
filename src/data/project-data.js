@@ -117,8 +117,8 @@ export const projectData = [
                 <p>I designed this single-page portfolio using React, Sass, and React Bootstrap. Components and styles are conventiently segmented for other developers to easily adapt to their own style preferences.</p>
             </>
             ),
-        liveLink: "https://trevorwallis13.github.io/stopwatch/",
-        githubLink: "https://github.com/trevorwallis13/stopwatch",
+        liveLink: "https://trevorwallis13.github.io/simple-react-portfolio-template/",
+        githubLink: "https://github.com/trevorwallis13/simple-react-portfolio-template",
         techStack: [
             {
                 name: 'React',
